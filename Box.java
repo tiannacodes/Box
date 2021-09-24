@@ -1,4 +1,4 @@
-package edu.buffalostate.cis425.fa21.assignments.hatch;
+-removed package line as it contains sensitive data-
 
 public class Box {
 
